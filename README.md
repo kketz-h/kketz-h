@@ -15,7 +15,7 @@
       <p>🗣️ Languages: Portuguese, Japanese, English</p>
     </td>
     <td width="40%" align="center">
-      <img src="gengar_lofi.jpeg" alt="Gengar LoFi" width="250px" style="border-radius: 10px;" />
+      <img src="https://github.com/user-attachments/assets/fa81d0bd-14ac-464c-af50-5c459b71f01b" alt="Gengar LoFi" width="250px" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -65,6 +65,13 @@
 
 <br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kketz-h/kketz-h/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kketz-h/kketz-h/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kketz-h/kketz-h/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kketz-h/kketz-h/output/github-contribution-grid-snake-dark.svg">
