@@ -7,20 +7,15 @@
 
 ### 💫 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>🎓 <b>Computer Science Student</b> at UNINTER</p>
-      <p>🛠️ Focusing on <b>Data Engineering, ETL Pipelines & Big Data</b></p>
-      <p>⚙️ Experience with <b>Python, PySpark, SQL and Databricks</b></p>
-      <p>💡 Passionate about <b>CRISP-DM</b> and building scalable data architectures</p>
-      <p>🗣️ Languages: <b>Portuguese, Japanese, English</b></p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/user-attachments/assets/fa81d0bd-14ac-464c-af50-5c459b71f01b" width="220px" style="border-radius: 20px; border: 2px solid #9400D3;" />
-    </td>
-  </tr>
-</table>
+<div style="border-left: 3px solid #9400D3; padding-left: 15px;">
+  <p>🎓 <b>Computer Science Student</b> at UNINTER</p>
+  <p>🛠️ Focusing on <b>Data Engineering, ETL Pipelines & Big Data</b></p>
+  <p>⚙️ Experience with <b>Python, PySpark, SQL and Databricks</b></p>
+  <p>💡 Passionate about <b>CRISP-DM</b> and building scalable data architectures</p>
+  <p>🗣️ Languages: <b>Portuguese, Japanese, English</b></p>
+</div>
+
+<br>
 
 ### 🛠️ Tech Stack
 
@@ -45,14 +40,6 @@
 >   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 >   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 > </p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=visual_studio_dark&font_all=Fira+Code&hide_border=true&icon_color=9400D3&title_color=9400D3" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=visual_studio_dark&font_all=Fira+Code&hide_border=true&title_color=9400D3" height="150" />
-</p>
 
 ---
 
