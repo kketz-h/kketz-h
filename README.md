@@ -5,14 +5,14 @@
 
 ---
 
-### About Me
+### 💫 About Me
 
 <table>
   <tr>
     <td width="60%">
-      <p>🎓 <b>Computer Science Student</b>
-      <p>🛠️ Focusing on <b>Data Engineering, ETL Pipelines & Cloud Infrastructure</b></p>
-      <p>⚙️ Experience with <b>Python automation, SQL and Databricks</b></p>
+      <p>🎓 <b>Computer Science Student</b> at UNINTER</p>
+      <p>🛠️ Focusing on <b>Data Engineering, ETL Pipelines & Big Data</b></p>
+      <p>⚙️ Experience with <b>Python, PySpark, SQL and Databricks</b></p>
       <p>💡 Passionate about <b>CRISP-DM</b> and building scalable data architectures</p>
       <p>🗣️ Languages: <b>Portuguese, Japanese, English</b></p>
     </td>
@@ -32,10 +32,10 @@
 >   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 > </p>
 
-> **Data Infrastructure & Processing**
+> **Data Infrastructure & Big Data**
 > <p align="left">
+>   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
 >   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
->   <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white" />
 >   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 >   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 > </p>
