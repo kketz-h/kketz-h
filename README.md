@@ -8,7 +8,7 @@
 ### About Me
 
 <div style="border-left: 3px solid #9400D3; padding-left: 15px;">
-  <p>🎓 <b>Computer Science Student</b> at UNINTER</p>
+  <p>🎓 <b>Computer Science Student</b>
   <p>🛠️ Focusing on <b>Data Engineering, ETL Pipelines & Big Data</b></p>
   <p>⚙️ Experience with <b>Python, PySpark, SQL and Databricks</b></p>
   <p>💡 Passionate about <b>CRISP-DM</b> and building scalable data architectures</p>
