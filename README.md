@@ -17,7 +17,7 @@
 
 <br>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 > **Core Engineering & Languages**
 > <p align="left">
