@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi!</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=650&lines=%E2%8A%B9+Building+robust+pipelines+to+unlock+data+value+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;%E2%8A%B9+Aspiring+Data+Engineer+%26+Cloud+Enthusiast+%E2%8A%B9" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=650&lines=%E2%8A%B9+Building+robust+pipelines+to+unlock+data+value+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;%E2%8A%B9+Data+Engineer+%26+%E2%8A%B9" alt="Typing SVG">
 </div>
 
 ---
